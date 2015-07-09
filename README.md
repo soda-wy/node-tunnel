@@ -1,5 +1,8 @@
 # node-tunnel - HTTP/HTTPS Agents for tunneling proxies
 
+# fork-fix `TypeError: Request path contains unescaped characters.` node-v:0.12
+
+
 ## Example
 
 ```javascript
